@@ -12,3 +12,8 @@ https://github.com/flux3dp/delta-mainboard
 ### Toolhead Firmware Source Code (STM32 solution)
 
 https://github.com/flux3dp/delta-toolhead-firmware
+
+
+### Python Firmware
+
+https://github.com/flux3dp/delta-firmware
