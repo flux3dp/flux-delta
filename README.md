@@ -1,7 +1,9 @@
 # flux-delta
 This repository is currently working in progress.
 
-It takes time to organize legacy documents, latest progress will be updated here.
+It will take some time to organize legacy documents. 
+
+The latest progress will be updated here.
 
 ## Firmware
 
