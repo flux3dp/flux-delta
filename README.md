@@ -1,7 +1,7 @@
 # flux-delta
-Open-sourced Modularized 3D Printer
+This repository is currently working in progress.
 
-
+It takes time to organize legacy documents, latest progress will be updated here.
 
 
 ### Mainboard Firmware Source Code (ATMEGA based solution)
