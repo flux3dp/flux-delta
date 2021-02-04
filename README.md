@@ -9,6 +9,6 @@ Open-sourced Modularized 3D Printer
 https://github.com/flux3dp/delta-mainboard
 
 
-#### Toolhead Firmware Source Code (STM32 solution)
+### Toolhead Firmware Source Code (STM32 solution)
 
 https://github.com/flux3dp/delta-toolhead-firmware
